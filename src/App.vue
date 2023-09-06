@@ -12,6 +12,10 @@
     </div>
   </div>
 </template>
+<div>
+
+    <h1>hello </h1>
+ </div>
 
 <script>
 import SideBar from "./components/sidebar/SideBar.vue";
